@@ -119,8 +119,8 @@ The analysis results are summarized as follows:
 - High Rejection by Employee: Products manufactured by Shruti Singh have the highest rejection rate (520,867 units).
 - High Rejection by Machines: Machines C007 (33,660), C022 (26,480), and C037 (23,480) have the highest rejection rates.
 - Departmental Rejections:
--- More products are rejected in the CUT AND FOLD sector.
--- The Woven Labels Department has a high rejection rate.
+  - More products are rejected in the CUT AND FOLD sector.
+  - The Woven Labels Department has a high rejection rate.
 
 ## Recommendations
 Based on the analysis, we recommend the following actions:
@@ -130,7 +130,7 @@ Based on the analysis, we recommend the following actions:
 - Departmental Improvements: Pay special attention to the Woven Labels Department and the CUT AND FOLD sector to reduce the rejected quantity.
   
 ## Limitations
-The analysis had to exclude zero values from the budget and revenue columns to ensure accurate conclusions. Despite a few remaining outliers, there is a positive correlation between budget, number of votes, and revenue.
+The analysis is based on a dataset from a single month, which may not fully represent seasonal trends or variations in rejection rates over a longer period.
 
 ## References
 [Download Here](https://1drv.ms/f/c/6993f333d4c84e65/EsLtgmm8tU9Llg10_9-pVBEBf44rfxtgucw1u6HGSkrYcw?e=m9Toaz)
