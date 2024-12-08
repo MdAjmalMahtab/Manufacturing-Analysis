@@ -135,4 +135,5 @@ Based on the analysis, we recommend the following actions:
 The analysis is based on a dataset from a single month, which may not fully represent seasonal trends or variations in rejection rates over a longer period.
 
 ## References
-[Download Here](https://1drv.ms/f/c/6993f333d4c84e65/EsLtgmm8tU9Llg10_9-pVBEBf44rfxtgucw1u6HGSkrYcw?e=m9Toaz)
+- [Download Files Here](https://1drv.ms/f/c/6993f333d4c84e65/EsLtgmm8tU9Llg10_9-pVBEBf44rfxtgucw1u6HGSkrYcw?e=m9Toaz)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/md.ajmal.mahtab/viz/Manufacturingtableau_17323785595210/Dashboard1?publish=yes)
