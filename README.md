@@ -42,6 +42,8 @@ In the initial data preparation phase, we performed the following tasks:
 - Department Wise Manufacture Vs Rejected
 - Employee Wise Rejected Qty
 
+![Dashboard](https://github.com/user-attachments/assets/dc72e20f-9585-4446-9c87-321e4745ba2a)
+
 ## Exploratory Data Analysis
 EDA involved exploring the manufacturing data to answer key questions, such as:
 - What is the overall trend in manufactured and rejected quantities?
